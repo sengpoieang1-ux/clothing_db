@@ -1,0 +1,21 @@
+{
+    "men":[
+        {
+            "id":1,
+            "title":"jacket",
+            "price": 10.00,
+            "img":"https://static.nextdirect.com/resource/blob/998114/c087b788cdabef39d18a6bb72c8bf4b1/date-hero-mens-mb-data.jpg"
+        
+        }
+    ],
+    "women":[
+        {
+            "id":1,
+            "title":"jacket",
+            "price": 10.00,
+            "img":"https://static.nextdirect.com/resource/blob/998114/c087b788cdabef39d18a6bb72c8bf4b1/date-hero-mens-mb-data.jpg"
+        
+        }
+    ]
+    
+}
