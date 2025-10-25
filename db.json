@@ -2,20 +2,195 @@
     "men":[
         {
             "id":1,
-            "title":"jacket",
-            "price": 10.00,
-            "img":"https://static.nextdirect.com/resource/blob/998114/c087b788cdabef39d18a6bb72c8bf4b1/date-hero-mens-mb-data.jpg"
-        
+            "title":"Beggy Denim Jeans",
+            "price": 22.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225081393/ZD__2228-cr-450x672.jpg"
+        },
+        {
+            "id":2,
+            "title":"Regular T-Shirt",
+            "price": 13.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225081445/ZD__1080-cr-450x672.jpg"
+        },
+        {
+            "id":3,
+            "title":"Regular T-Shirt",
+            "price": 13.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225081431/ZD__1051-cr-450x672.jpg"
+        },
+        {
+            "id":4,
+            "title":"Regular Long Sleeves Shirt",
+            "price": 17.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225051260/ZD__0895-cr-450x672.jpg"
+        },
+        {
+            "id":5,
+            "title":"Overall Printed Shirt",
+            "price": 20.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225081389/ZD__0592-cr-450x672.jpg"
+        },
+        {
+            "id":6,
+            "title":"Twill Denim Short",
+            "price": 18.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225051318/TAKK9822-cr-450x672.jpg"
+        },
+        {
+            "id":7,
+            "title":"Textured Shirts",
+            "price": 17.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225061339/ZD__9370-cr-450x672.jpg"
+        },
+        {
+            "id":8,
+            "title":"wide Leg Denim Jeans",
+            "price": 24.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225081390/TAKK9661-cr-450x672.jpg"
+        },
+        {
+            "id":9,
+            "title":"Loose Fitted T-Shirts",
+            "price": 11.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225081399%20/ZD__9139-cr-450x672.jpg"
+        },
+        {
+            "id":10,
+            "title":" Fitted Denim Shirts",
+            "price": 19.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225041248%20/ZD__9032-cr-450x672.jpg"
+        },
+        {
+            "id":11,
+            "title":"Boxy Fitted Shirt",
+            "price": 18.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225081430/DSC03680-cr-450x672.jpg"
+        },
+        {
+            "id":12,
+            "title":"Polo Shirts",
+            "price": 13.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225061325/SR__1132-cr-450x672.jpg"
+        },
+        {
+            "id":13,
+            "title":"Textured Shirts",
+            "price": 19.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225031179/ZD__7382-cr-450x672.jpg"
+        },
+        {
+            "id":14,
+            "title":"Regular T-Shirt",
+            "price": 14.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/21225041267%20(2)/ZD__7447-cr-450x672.jpg"
+        },
+        {
+            "id":15,
+            "title":"Beggy Denim Jeans",
+            "price": 34.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-09/21225071258/SR__1284-cr-450x672.jpg"
         }
+    
     ],
     "women":[
         {
             "id":1,
             "title":"jacket",
             "price": 10.00,
-            "img":"https://static.nextdirect.com/resource/blob/998114/c087b788cdabef39d18a6bb72c8bf4b1/date-hero-mens-mb-data.jpg"
+            "img":""
         
+        },
+        {
+            "id":1,
+            "title":"laced Stripe Shorts",
+            "price": 14.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081828/ZD__9481-cr-450x672.jpg"
+        },
+        {
+            "id":2,
+            "title":"Mexi Dresses",
+            "price": 24.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225071528/ZD__0668-cr-450x672.jpg"
+        },
+        {
+            "id":3,
+            "title":"Ruched Stripe Shirts",
+            "price": 16.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225071530/ZD__9386-cr-450x672.jpg"
+        },
+        {
+            "id":4,
+            "title":"Knitted Polo Shirts",
+            "price": 10.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081599/ZD__9533-cr-450x672.jpg"
+        },
+        {
+            "id":5,
+            "title":"Loose Fitted Straight Leg Trousers",
+            "price": 16.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061600/ZD__9452-cr-450x672.jpg"
+        },
+        {
+            "id":6,
+            "title":"Regular Blouse",
+            "price": 16.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081821/ZD__9013-cr-450x672.jpg"
+        },
+        {
+            "id":7,
+            "title":"Textured Shirts",
+            "price": 15.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061571/ZD__8997-cr-450x672.jpg"
+        },
+        {
+            "id":8,
+            "title":"Straight Trouser",
+            "price": 21.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081602/ZD__7763-cr-450x672.jpg"
+        },
+        {
+            "id":9,
+            "title":"Strip Shorts",
+            "price": 15.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081634/TAKK9979-cr-450x672.jpg"
+        },
+        {
+            "id":10,
+            "title":"Mini Skirts",
+            "price": 15.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081659/TAKK9677-cr-450x672.jpg"
+        },
+        {
+            "id":11,
+            "title":"Cropped Stripe Shirts",
+            "price": 16.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081624/ZD__9832-cr-450x672.jpg"
+        },
+        {
+            "id":12,
+            "title":"Fitted T-Shirt",
+            "price": 15.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061574/TAKK8809-cr-450x672.jpg"
+        },
+        {
+            "id":13,
+            "title":"Denim Jackets",
+            "price": 24.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225051448/TAKK8892-cr-450x672.jpg"
+        },
+        {
+            "id":14,
+            "title":"Two-Layer Mini Skirts",
+            "price": 20.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061575/TAKK8833-cr-450x672.jpg"
+        },
+        {
+            "id":15,
+            "title":"Euffle Midi Dress",
+            "price": 25.00,
+            "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061636/ZD__8617-cr-450x672.jpg"
         }
+        
     ]
     
 }
