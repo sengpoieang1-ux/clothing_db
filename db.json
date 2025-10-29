@@ -124,7 +124,7 @@
             "id":16,
             "title":"Euffle Midi Dress",
             "price": 15.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225071530/ZD__9386-cr-450x672.jpg"
             
@@ -133,7 +133,7 @@
             "id":17,
             "title":"laced Stripe Shorts",
             "price": 14.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081828/ZD__9481-cr-450x672.jpg"
         },
@@ -141,7 +141,7 @@
             "id":18,
             "title":"Mexi Dresses",
             "price": 24.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225071528/ZD__0668-cr-450x672.jpg"
         },
@@ -149,7 +149,7 @@
             "id":19,
             "title":"Ruched Stripe Shirts",
             "price": 16.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225071530/ZD__9386-cr-450x672.jpg"
         },
@@ -157,7 +157,7 @@
             "id":20,
             "title":"Knitted Polo Shirts",
             "price": 10.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081599/ZD__9533-cr-450x672.jpg"
         },
@@ -165,7 +165,7 @@
             "id":21,
             "title":"Loose Fitted Straight Leg Trousers",
             "price": 16.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061600/ZD__9452-cr-450x672.jpg"
         },
@@ -173,7 +173,7 @@
             "id":22,
             "title":"Regular Blouse",
             "price": 16.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081821/ZD__9013-cr-450x672.jpg"
         },
@@ -181,7 +181,7 @@
             "id":23,
             "title":"Textured Shirts",
             "price": 15.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061571/ZD__8997-cr-450x672.jpg"
         },
@@ -189,7 +189,7 @@
             "id":24,
             "title":"Straight Trouser",
             "price": 21.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081602/ZD__7763-cr-450x672.jpg"
         },
@@ -197,7 +197,7 @@
             "id":25,
             "title":"Strip Shorts",
             "price": 15.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081634/TAKK9979-cr-450x672.jpg"
         },
@@ -205,7 +205,7 @@
             "id":26,
             "title":"Mini Skirts",
             "price": 15.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081659/TAKK9677-cr-450x672.jpg"
         },
@@ -213,7 +213,7 @@
             "id":27,
             "title":"Cropped Stripe Shirts",
             "price": 16.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225081624/ZD__9832-cr-450x672.jpg"
         },
@@ -221,7 +221,7 @@
             "id":28,
             "title":"Fitted T-Shirt",
             "price": 15.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061574/TAKK8809-cr-450x672.jpg"
         },
@@ -229,7 +229,7 @@
             "id":29,
             "title":"Denim Jackets",
             "price": 24.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225051448/TAKK8892-cr-450x672.jpg"
         },
@@ -237,7 +237,7 @@
             "id":30,
             "title":"Two-Layer Mini Skirts",
             "price": 20.00,
-            "category": "WoMen",
+            "category": "Women",
             "sizes": ["M", "L", "XL"],
             "img":"https://zandokh.com/image/cache/catalog/products/2025-10/22225061575/TAKK8833-cr-450x672.jpg"
         }
